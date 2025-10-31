@@ -1,0 +1,2 @@
+# WhatToDoEnsenada
+Local news app
